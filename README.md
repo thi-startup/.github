@@ -14,7 +14,7 @@ Currently, we are working fervently on building tooling around Firecracker to ma
 
 Firecracker is an exciting technology that enables lightning-fast and lightweight virtualization, making it ideal for micro VMs and serverless computing environments. By developing user-friendly tooling around Firecracker, we aim to empower both beginners and seasoned developers to take advantage of this cutting-edge virtualization solution.
 
-Open Source and Community-Driven:
+## Open Source and Community-Driven:
 
 We believe in the power of collaboration and knowledge sharing. As a community-driven initiative, our projects are open-source, welcoming contributions from tech enthusiasts worldwide. Whether you are a developer, researcher, or simply someone eager to learn, we invite you to join us on this journey of exploration and innovation.
 
