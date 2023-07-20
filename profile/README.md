@@ -4,7 +4,7 @@ We are a passionate and dynamic technology research and development group, dedic
 
 ## Our Focus:
 
-At [Thi-startup], we focus on identifying emerging technologies and understanding their potential applications. We love pushing boundaries and believe that the best way to learn is by doing. Our projects encompass a diverse range of tech domains, from cloud computing and virtualization to Distributed Systems, IoT, and beyond.
+At **Thi-startup**, we focus on identifying emerging technologies and understanding their potential applications. We love pushing boundaries and believe that the best way to learn is by doing. Our projects encompass a diverse range of tech domains, from cloud computing and virtualization to Distributed Systems, IoT, and beyond.
 
 ### Current Project: Firecracker Tooling for the Average User
 
@@ -20,6 +20,6 @@ We believe in the power of collaboration and knowledge sharing. As a community-d
 
 ## Join Us:
 
-If you are passionate about technology, love hands-on learning, and seek to be at the forefront of cutting-edge developments, we invite you to become a part of [Thi-Startup]. Explore our GitHub repository to get involved, contribute to ongoing projects, or propose new ideas for exciting future endeavors.
+If you are passionate about technology, love hands-on learning, and seek to be at the forefront of cutting-edge developments, we invite you to become a part of **Thi-Startup**. Explore our GitHub repository to get involved, contribute to ongoing projects, or propose new ideas for exciting future endeavors.
 
 Let's shape the future of technology together!
